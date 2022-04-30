@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<appSettings>
+		<add key ="token" value ="[token]"/>
+		<add key="filetowatch" value="C:\\Everquest\\Logs\\eqlog_Miri_mangler.txt"/>
+		<add key="chatgrouptowatch" value="guild"/>
+	</appSettings>
+</configuration>
